@@ -13,10 +13,15 @@ I build full-stack web apps that real people actually use. Currently running [Bu
 - **Tools:** Git, GitHub, Docker, Vercel, Render
 
 ### 📌 Featured Projects
-- **[Bumart](https://github.com/harshit-exe-dev/bumart)** — Campus marketplace for students to buy/sell second-hand items. Real-time chat, JWT auth, Cloudinary uploads. [Live](https://bumart.vercel.app)
-- **[DoctorResume](https://github.com/harshit-exe-dev/DoctorResume)** — "The resume clinic": 8-point ATS diagnosis with score/100 and an auto-generated ATS-friendly resume. [Live](https://doctor-resume.vercel.app)
+- **[Bumart](https://bumart.vercel.app)** — Campus marketplace I founded: students buy/sell second-hand items. Real-time chat, JWT auth, Cloudinary uploads. (Repo is private)
+- **[DoctorResume](https://github.com/harshit-exe-dev/DoctorResume)** — "The resume clinic": 8-point ATS diagnosis with score/100 and an auto-generated ATS-friendly resume. I built the backend scoring engine. [Live](https://doctor-resume.vercel.app)
+- **[Evidenca](https://github.com/harshit-exe-dev/evidenca)** — "Proof of human work": a VS Code extension that records your coding sessions and renders a cinematic timelapse film proving a human built it.
+- **[Portfolio](https://github.com/harshit-exe-dev/portfolio)** — My developer portfolio site. [Live](https://harshit-portfolio-six-delta.vercel.app)
 - **[WanderLust](https://github.com/harshit-exe-dev/WanderLust)** — Full-stack travel listings with auth, reviews, Cloudinary + Mapbox. [Live](https://majorproject-7kxx.onrender.com/listings)
 - **[Habit-Tracker](https://github.com/harshit-exe-dev/Habit-Tracker)** — Streaks, progress tracking, dark mode. [Live](https://harshit-exe-dev.github.io/Habit-Tracker/)
+
+### 🌱 Currently exploring
+Test automation and application security.
 
 ### 📊 GitHub Stats
 ![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-exe-dev&show_icons=true&theme=radical)
