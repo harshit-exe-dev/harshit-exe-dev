@@ -6,7 +6,7 @@ I don't build tutorial clones. I build things, ship them, and put them in front 
 
 ### Currently running
 
-**[Bumart](https://bumart.vercel.app)** — a campus marketplace I founded. BU students buy and sell second-hand textbooks, cycles, and calculators. Real-time chat (Socket.io), JWT auth in http-only cookies, Cloudinary uploads, MongoDB Atlas. I also did the full SEO pass myself — sitemap, meta, Search Console, indexed on Google — plus an `llms.txt` layer so AI tools can read the site too.
+**[Bumart](https://bumart.vercel.app)** — a campus marketplace I founded. BU students buy and sell second-hand textbooks, cycles, and calculators. Real-time chat (Socket.io), JWT auth in http-only cookies, Cloudinary uploads, MongoDB Atlas. I also did the full SEO pass myself — sitemap, meta, Search Console, indexed on Google — plus an `llms.txt` layer so AI tools can read the site too. The story, stack, and architecture are documented in the [public showcase](https://github.com/harshit-exe-dev/bumart-showcase).
 
 ### What I've shipped
 
