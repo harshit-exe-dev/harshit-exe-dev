@@ -8,6 +8,8 @@ I don't build tutorial clones. I build things, ship them, and put them in front 
 
 **[Bumart](https://bumart.vercel.app)** — a campus marketplace I founded. BU students buy and sell second-hand textbooks, cycles, and calculators. Real-time chat (Socket.io), JWT auth in http-only cookies, Cloudinary uploads, MongoDB Atlas. I also did the full SEO pass myself — sitemap, meta, Search Console, indexed on Google — plus an `llms.txt` layer so AI tools can read the site too. The story, stack, and architecture are documented in the [public showcase](https://github.com/harshit-exe-dev/bumart-showcase).
 
+**[Spill](https://spillcampus.vercel.app)** — an anonymous confession wall for my campus, live since November 2026. Post under a random handle, reply publicly, and take it private only if both sides agree. React + Express + Socket.io on MongoDB: live feed, reactions, push notifications, and login by a 5-word phrase instead of a password — no email, no phone, no names. Repo: [spill](https://github.com/harshit-exe-dev/spill).
+
 ### What I've shipped
 
 - **[GFG BU Jhansi](https://gfgbujhansi.vercel.app)** — the official website of my university's GeeksforGeeks chapter. Native join system on MongoDB (no Google Forms) with duplicate protection, a password-protected admin panel for member management, a Cloudinary-backed gallery, and a full SEO pass — sitemap, structured data, Search Console verified. I'm the chapter's frontend developer, and I teach web development workshops for first-year students.
@@ -21,7 +23,7 @@ I don't build tutorial clones. I build things, ship them, and put them in front 
 
 I contribute to projects I actually use:
 
-- **CODERCOPS (Hacktoberfest 2026)** — four merged PRs across [ogcops](https://github.com/codercops/ogcops/pull/191), [chatcops](https://github.com/codercops/chatcops/pull/167) and [toolbelt](https://github.com/codercops/toolbelt/pull/199): job-board issue templates and tooling documentation, with a fifth PR currently in review.
+- **CODERCOPS (Hacktoberfest 2026)** — six merged PRs across [ogcops](https://github.com/codercops/ogcops/pull/191), [chatcops](https://github.com/codercops/chatcops/pull/167), [toolbelt](https://github.com/codercops/toolbelt/pull/199) and discord-bot: job-board issue templates, tooling documentation, and community tooling.
 - **[socketio/socket.io#5573](https://github.com/socketio/socket.io/pull/5573)** (open) — raised the engine.io floor to patch three GHSA advisories (GHSA-2gc4-cqfq-p2gv, GHSA-gr94-w7qr-f4j3, GHSA-r635-g3xr-vw7x).
 
 ### Stack
